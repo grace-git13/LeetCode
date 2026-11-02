@@ -1,0 +1,8 @@
+// Find the Index of the First Occurrence in a String
+// Completed 2nd November 2026
+
+class Solution {
+    public int strStr(String haystack, String needle) {
+            return haystack.indexOf(needle);
+    }
+}
